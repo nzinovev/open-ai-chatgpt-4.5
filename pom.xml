@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>chat-gpt-poe</artifactId>
+	<artifactId>chat-gpt-4.5</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>chat-gpt-poe</name>
+	<name>chat-gpt-4.5</name>
 	<description>Demo project developed by Anthropic Claude</description>
 	<url/>
 	<licenses>

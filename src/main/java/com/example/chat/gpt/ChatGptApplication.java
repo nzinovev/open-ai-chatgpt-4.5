@@ -1,13 +1,13 @@
-package com.example.chat.gpt.poe;
+package com.example.chat.gpt;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ChatGptPoeApplication {
+public class ChatGptApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ChatGptPoeApplication.class, args);
+		SpringApplication.run(ChatGptApplication.class, args);
 	}
 
 }

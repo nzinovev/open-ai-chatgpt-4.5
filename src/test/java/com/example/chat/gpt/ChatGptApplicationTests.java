@@ -1,10 +1,10 @@
-package com.example.chat.gpt.poe;
+package com.example.chat.gpt;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ChatGptPoeApplicationTests {
+class ChatGptApplicationTests {
 
 	@Test
 	void contextLoads() {
